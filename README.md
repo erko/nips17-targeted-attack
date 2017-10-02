@@ -1,7 +1,7 @@
 # NIPS 2017: Targeted Adversarial Attack submission
 This project is final submission on kaggle competition [NIPS 2017: Targeted Adversarial Attack](https://www.kaggle.com/c/nips-2017-targeted-adversarial-attack) by team ["erko" (Yerkebulan Berdibekov)](https://www.kaggle.com/erkowa)
 
-*Description of idea here*
+To read description of this project click [here](https://www.kaggle.com/c/nips-2017-non-targeted-adversarial-attack/discussion/40387)
 
 Requirements:
 
