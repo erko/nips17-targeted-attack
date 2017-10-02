@@ -17,5 +17,7 @@ Configure on host OS CUDA & cuDNN 6, docker-ce, nvidia-docker.
 * Run `sh run_attacks_and_defenses.sh`;
 * Compare this targeted-attack to other targeted-attacks in `accuracy_on_targeted_attacks.csv` file in resulting output folder.
 
+Note: batch_size differs from actual submission, from 10 reduced to 4 to be able to run in 8GB GPU (GTX 1080)
+
 Possible problems: 
 - Facing errors: "****.sh: Permission denied!" - may be need to make .sh file runnable.
